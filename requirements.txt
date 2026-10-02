@@ -1,3 +1,5 @@
 Flask
 flask-cors
+requests
 yt-dlp
+firebase-admin
